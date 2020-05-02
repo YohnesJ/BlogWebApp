@@ -3,7 +3,7 @@ A blog style web application using django that allows you to create an account, 
 
 # What I Learned
 
-+ Using django's authintacation system
++ Using django's authentication system
 + Parent Templates
 + Route paths using views and urls modules
 + Working with parent and child templates
